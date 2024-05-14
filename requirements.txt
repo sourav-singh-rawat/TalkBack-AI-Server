@@ -1,0 +1,4 @@
+deepgram_sdk==3.2.7
+groq==0.5.0
+openai==1.29.0
+paho_mqtt==2.1.0
